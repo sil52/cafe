@@ -95,7 +95,7 @@ img {
 /* NEWS
 ------------------------------ */
 #news {
-    background-image: url(/Users/akamaaaya/Desktop/programming/wcbcafe/image/news-bg.jpg);
+    background-image: url(https://github.com/sil52/cafe.github.io/blob/main/news-bg.jpg?raw=true);
     height: 500px;
     margin-bottom: 40px;
 }
@@ -193,7 +193,7 @@ img {
 /* MENU
 ------------------------------*/
 #menu {
-    background-image: url(/Users/akamaaaya/Desktop/programming/wcbcafe/image/menu3.jpg);
+    background-image: url(https://github.com/sil52/cafe.github.io/blob/main/menu3.jpg?raw=true);
     min-height: 100vh;
     opacity: 0.9;
 }
@@ -219,7 +219,7 @@ img {
 /* CONTACT
 ------------------------------*/
 #contact {
-    background-image: url(/Users/akamaaaya/Desktop/programming/wcbcafe/image/pexels-fotios-photos-1024359.jpg);
+    background-image: url(https://github.com/sil52/cafe.github.io/blob/main/pexels-fotios-photos-1024359.jpg?raw=true);
     min-height: 100vh;
 }
 /*　フォーム　*/
