@@ -166,6 +166,7 @@ img {
 /*サイドバー*/
 .aside {
     width: 22%;
+    
     order: 1;
 }
 
