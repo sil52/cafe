@@ -114,7 +114,8 @@ img {
 
 /* 記事部分*/
 .article {
-    width: 60%;
+    width: ５５%;
+    margin-bottom: 20px;
     order: 2;
 }
 .news-contents {
@@ -165,8 +166,8 @@ img {
 
 /*サイドバー*/
 .aside {
-    width: 22%;
-    
+    width: ２０%;
+    margin-bottom: 20px;
     order: 1;
 }
 
@@ -196,9 +197,10 @@ img {
     color: #0bd;
 }
 .aside p {
-   padding: 12px 10px;
+   padding: 10px;
 }
 .ad {
+    margin-bottom: 20px;
     order: 3;
 }
 
