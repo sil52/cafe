@@ -103,26 +103,25 @@ img {
 ------------------------------ */
 #news {
     background-image: url(https://github.com/sil52/cafe.github.io/blob/main/news-bg.jpg?raw=true);
-    height: 500px;
+    height: ２４０px;
     margin-bottom: 40px;
 }
 #news .page-title {
     text-align: center;
-    margin-top: 0%;
-}
-
-
-/* 記事部分*/
-.article {
-    width: ５５%;
-    margin-bottom: 20px;
-    order: 2;
 }
 .news-contents {
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
 }
+
+/* 記事部分*/
+.article {
+    width: ６０%;
+    margin-bottom: 20px;
+    order: 2;
+}
+
 .post-info {
     position: relative;
     padding-top: 4px;
