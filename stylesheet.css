@@ -366,11 +366,27 @@ footer p {
     #contact .page-title {
         margin-top: 40px;
     }
-/*フォーム*/
+
+    }
+/* フォーム */
     input[type="text"],
     input[type="email"],
     textarea {
         max-width: 100%;
+    }
+
+/* 店舗情報・地図 / SNS */
+    #location .wrapper,
+    #sns .wrapper {
+        flex-direction: column;
+    }
+    .location-info,
+    .location-map,
+    .sns-box {
+        width: 100%;
+    }
+    .sns-box {
+        margin-bottom: 30px;
     }
 }
 
