@@ -195,11 +195,15 @@ img {
 .sub-menu a:hover {
     color: #0bd;
 }
+.aside {
+    margin-left: 20px;
+}
 .aside p {
    padding: 10px;
 }
 .ad {
     margin-bottom: 20px;
+    margin-left: 20px;
     order: 3;
 }
 
