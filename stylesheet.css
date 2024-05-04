@@ -119,6 +119,7 @@ img {
 .article {
     width: ６０%;
     margin-bottom: 20px;
+    margin-right: 20px;
     order: 2;
 }
 
