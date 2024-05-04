@@ -117,7 +117,7 @@ img {
 
 /* 記事部分*/
 .article {
-    width: ６０%;
+    width: 66%;
     margin-bottom: 20px;
     margin-right: 20px;
     order: 2;
@@ -166,7 +166,7 @@ img {
 
 /*サイドバー*/
 .aside {
-    width: ２０%;
+    width: ２2%;
     margin-bottom: 20px;
     margin-left: 20px;
     order: 1;
